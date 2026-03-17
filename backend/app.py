@@ -43,7 +43,10 @@ def index():
     return {'message': 'Asset Management System API', 'status': 'running'}
 
 
+# Create tables on startup (works with both flask run and gunicorn)
+with app.app_context():
+    db.create_all()
+
+
 if __name__ == '__main__':
-    with app.app_context():
-        db.create_all()
     app.run(debug=True, port=5000)
