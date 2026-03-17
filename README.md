@@ -247,8 +247,4 @@ The app will run at `http://localhost:5173`.
 
 ## 📄 License
 
-This project is built for educational and portfolio purposes.
-
----
-
-**Built by [Priyanshu](https://github.com/Priyanshu-Builds)**
+This project is licensed under the [MIT License](LICENSE).
