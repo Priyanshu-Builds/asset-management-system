@@ -26,7 +26,7 @@ def seed():
             role='it_manager', department='IT'
         )
         emp1 = User(
-            name='Priya Patel', email='priya@company.com',
+            name='Priyanshu Sharma', email='priyanshu@company.com',
             password=bcrypt.generate_password_hash('password123').decode('utf-8'),
             role='employee', department='Engineering'
         )
@@ -98,7 +98,7 @@ def seed():
 
         logs = [
             ActivityLog(user_id=admin.id, action='Created asset: MacBook Pro 16"', module='Assets', timestamp=datetime(2024, 1, 15, 10, 0)),
-            ActivityLog(user_id=admin.id, action='Assigned asset "MacBook Pro 16\\"" to Priya Patel', module='Assignments', timestamp=datetime(2024, 1, 20, 14, 30)),
+            ActivityLog(user_id=admin.id, action='Assigned asset "MacBook Pro 16\\"" to Priyanshu Sharma', module='Assignments', timestamp=datetime(2024, 1, 20, 14, 30)),
             ActivityLog(user_id=it_mgr.id, action='Created asset: Dell Monitor 27"', module='Assets', timestamp=datetime(2024, 2, 10, 9, 0)),
             ActivityLog(user_id=emp1.id, action='Reported issue for MacBook Pro 16"', module='Issues', timestamp=datetime(2024, 8, 5, 11, 0)),
             ActivityLog(user_id=it_mgr.id, action='Maintenance scheduled for Standing Desk', module='Maintenance', timestamp=datetime(2024, 8, 1, 8, 0)),
@@ -113,7 +113,7 @@ def seed():
         print("\nLogin Credentials:")
         print("Admin:      admin@company.com / admin123")
         print("IT Manager: rahul@company.com / password123")
-        print("Employee:   priya@company.com / password123")
+        print("Employee:   priyanshu@company.com / password123")
 
 
 if __name__ == '__main__':

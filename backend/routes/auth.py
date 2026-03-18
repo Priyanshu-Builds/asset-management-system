@@ -58,3 +58,25 @@ def login():
         'token': token,
         'user': user.to_dict()
     }), 200
+
+
+@auth_bp.route('/auth/forgot-password', methods=['POST'])
+def forgot_password():
+    data = request.get_json()
+    email = data.get('email')
+    new_password = data.get('new_password')
+
+    if not email or not new_password:
+        return jsonify({'error': 'Email and new password are required'}), 400
+
+    if len(new_password) < 6:
+        return jsonify({'error': 'Password must be at least 6 characters'}), 400
+
+    user = User.query.filter_by(email=email).first()
+    if not user:
+        return jsonify({'error': 'No account found with this email'}), 404
+
+    user.password = bcrypt.generate_password_hash(new_password).decode('utf-8')
+    db.session.commit()
+
+    return jsonify({'message': 'Password reset successful! You can now login with your new password.'}), 200

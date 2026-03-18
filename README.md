@@ -301,7 +301,7 @@ npm run dev
 |---|---|---|---|
 | **Admin** | admin@company.com | admin123 | Full analytics, all modules, user management |
 | **IT Manager** | rahul@company.com | password123 | Full analytics, all modules except user management |
-| **Employee** | priya@company.com | password123 | Personal dashboard, my assets, report issues |
+| **Employee** | priyanshu@company.com | password123 | Personal dashboard, my assets, report issues |
 
 ---
 

@@ -79,7 +79,15 @@ export default function Login() {
             </button>
           </form>
 
-          <div style={{ marginTop: 20, textAlign: 'center' }}>
+          <div style={{ marginTop: 16, textAlign: 'center' }}>
+            <Link to="/forgot-password" style={{ fontSize: 13, color: '#f59e0b', textDecoration: 'none', fontWeight: 500 }}
+              onMouseEnter={e => e.currentTarget.style.textDecoration = 'underline'}
+              onMouseLeave={e => e.currentTarget.style.textDecoration = 'none'}>
+              Forgot Password?
+            </Link>
+          </div>
+
+          <div style={{ marginTop: 12, textAlign: 'center' }}>
             <span style={{ fontSize: 13, color: '#6b6b8a' }}>Don't have an account? </span>
             <Link to="/register" style={{ fontSize: 13, color: '#8b5cf6', textDecoration: 'none', fontWeight: 600 }}
               onMouseEnter={e => e.currentTarget.style.textDecoration = 'underline'}
@@ -94,7 +102,7 @@ export default function Login() {
               {[
                 { l: 'Admin', e: 'admin@company.com', p: 'admin123' },
                 { l: 'IT Mgr', e: 'rahul@company.com', p: 'password123' },
-                { l: 'Employee', e: 'priya@company.com', p: 'password123' },
+                { l: 'Employee', e: 'priyanshu@company.com', p: 'password123' },
               ].map(c => (
                 <button key={c.l} type="button" onClick={() => { setEmail(c.e); setPassword(c.p); }}
                   className="btn-ghost" style={{ justifyContent: 'center', fontSize: 12, padding: '8px 0' }}>
