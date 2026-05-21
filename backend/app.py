@@ -55,7 +55,11 @@ def health():
 
 # Create tables on startup (works with both flask run and gunicorn)
 with app.app_context():
-    db.create_all()
+    try:
+        db.create_all()
+        print("Database tables initialized successfully.")
+    except Exception as e:
+        print(f"Database initialization failed: {e}")
 
 
 if __name__ == '__main__':
