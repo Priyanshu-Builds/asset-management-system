@@ -58,6 +58,14 @@ with app.app_context():
     try:
         db.create_all()
         print("Database tables initialized successfully.")
+        
+        # Auto-seed if no users exist
+        from models import User
+        if not User.query.first():
+            print("No users found. Auto-seeding database...")
+            import seed
+            seed.seed()
+            print("Auto-seeding completed.")
     except Exception as e:
         print(f"Database initialization failed: {e}")
 
