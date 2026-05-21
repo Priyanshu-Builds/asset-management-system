@@ -1,0 +1,342 @@
+{
+  "D:\\Prototype\\backend\\app.py": {
+    "mtime": 1779358073.598939,
+    "ast_hash": "f8184b7198e1811e3e75cfa847943818",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\config.py": {
+    "mtime": 1773944620.6105125,
+    "ast_hash": "f4de8c8e37b254a78b86a7eacc7b3681",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\db_check.py": {
+    "mtime": 1779347131.406041,
+    "ast_hash": "5c2ac50169abd59c410a173d7351a824",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\db_ensure.py": {
+    "mtime": 1779347142.2911744,
+    "ast_hash": "a616a512a121836ddfcbe82ef02a2285",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\models.py": {
+    "mtime": 1773928319.2393405,
+    "ast_hash": "f0fe9b995a0783fe9dc350503e6df210",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\seed.py": {
+    "mtime": 1773944700.6004755,
+    "ast_hash": "57dc42a58740dee48a029a010c16615e",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\activity_logs.py": {
+    "mtime": 1773641560.2395322,
+    "ast_hash": "6e078ccc13b38c65b642d59d0a1ebae0",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\assets.py": {
+    "mtime": 1773641536.0366015,
+    "ast_hash": "7e25c9092acd268a5d794ff867004985",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\assignments.py": {
+    "mtime": 1773641543.2556567,
+    "ast_hash": "81ba26527fb3f45a32d58d2cc7f03500",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\auth.py": {
+    "mtime": 1773808526.5529337,
+    "ast_hash": "7375e50ba3caac46e26ebc5142b7f79f",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\dashboard.py": {
+    "mtime": 1773730587.9757476,
+    "ast_hash": "57842c304673a58fb4c20d64f30c2cce",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\graph.py": {
+    "mtime": 1779358070.342958,
+    "ast_hash": "ef2b5439ea91bf4abd2aa75fa88af917",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\issues.py": {
+    "mtime": 1773641550.862959,
+    "ast_hash": "42245410ebd67e6606d5524ffeed8199",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\maintenance.py": {
+    "mtime": 1773641553.9793615,
+    "ast_hash": "51a4771e7e9fbb5065019ad37047aa72",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\notifications.py": {
+    "mtime": 1773731789.698094,
+    "ast_hash": "ec5d1d816fbb5ab44d3abac91c4b4d91",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\search.py": {
+    "mtime": 1773659551.2400491,
+    "ast_hash": "22e83ea3da93860278b02174421ac4e7",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\users.py": {
+    "mtime": 1773927393.2198853,
+    "ast_hash": "c2d7a7da9b334f8c879ccddd2130a52e",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\routes\\__init__.py": {
+    "mtime": 1773641482.3534484,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\eslint.config.js": {
+    "mtime": 1773642270.0507665,
+    "ast_hash": "49c8473bcfcec3aef596a5fb04a6df06",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\package.json": {
+    "mtime": 1773643264.4365547,
+    "ast_hash": "8b5a221e07ea10febc8d7ce609fb4200",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\vercel.json": {
+    "mtime": 1773733936.234097,
+    "ast_hash": "6411d2fbb5f0e00aaff0ca0ded84e0b6",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\vite.config.js": {
+    "mtime": 1773642607.4750185,
+    "ast_hash": "176283778d4c4c0f130c29fc58a941f1",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\App.jsx": {
+    "mtime": 1779358138.6569734,
+    "ast_hash": "3eea0bcdac3c122b464758e1eb9c90c8",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\main.jsx": {
+    "mtime": 1773642957.3810701,
+    "ast_hash": "782970e72e6372a389421d455825626a",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\api\\client.js": {
+    "mtime": 1773911317.6640806,
+    "ast_hash": "6d769bb9b4ae3f94bee758a3220e5088",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\index.js": {
+    "mtime": 1773927419.5874395,
+    "ast_hash": "3e1dc8d3686d91d93c9f15c9d1b2f1f9",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\components\\AuthDecorations.jsx": {
+    "mtime": 1773942657.9140131,
+    "ast_hash": "bfbd322eefb3fce19cab97fcccafbb8c",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\components\\BackendStatus.jsx": {
+    "mtime": 1773944397.084626,
+    "ast_hash": "fcee294a9181c51cf256ff08046eeba5",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\components\\Layout.jsx": {
+    "mtime": 1773911207.5611668,
+    "ast_hash": "3c0e143bb2c6e36fc7128f17ef953820",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\components\\Sidebar.jsx": {
+    "mtime": 1779358141.190258,
+    "ast_hash": "b14ed83fb0c811420a5eafb4d622f9f8",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\components\\TopNav.jsx": {
+    "mtime": 1773944009.1212993,
+    "ast_hash": "b9e914a7cd269c144bccb5ee9405b96a",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\context\\AuthContext.jsx": {
+    "mtime": 1773927499.9579077,
+    "ast_hash": "d04775720f0187d3ca3a3db1b4fd363a",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\context\\ThemeContext.jsx": {
+    "mtime": 1773659730.3588586,
+    "ast_hash": "8e330da2ffa909ef7c7a92338a9e3244",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\ActivityLogs.jsx": {
+    "mtime": 1773927602.7140708,
+    "ast_hash": "555c6734ea6fdde0a7c9203fe2aef35f",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Assets.jsx": {
+    "mtime": 1773925558.2173193,
+    "ast_hash": "f05d8387e3e86ea1a2b66237bce7bb22",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Assignments.jsx": {
+    "mtime": 1773928343.0285847,
+    "ast_hash": "617d0000f977f34c14427d00263eb0a3",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Dashboard.jsx": {
+    "mtime": 1773928867.44443,
+    "ast_hash": "1364e3ad914253ff1833c436a4a1a800",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\ForgotPassword.jsx": {
+    "mtime": 1773943002.0833385,
+    "ast_hash": "2b5581923647d297cade64d0ed7334ed",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Issues.jsx": {
+    "mtime": 1773928347.2510517,
+    "ast_hash": "adbdb9ede2d5e242248f7de991a299c5",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\KnowledgeGraph.jsx": {
+    "mtime": 1779358240.6181853,
+    "ast_hash": "b85e1559f8d6074f3f44e6bb9c982ac8",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\LandingPage.jsx": {
+    "mtime": 1773976548.379367,
+    "ast_hash": "c0efaafc748e3e64992d1e370d70e4ae",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Login.jsx": {
+    "mtime": 1773944403.4564254,
+    "ast_hash": "da036893ec151a0010ae7521ebc6132a",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Maintenance.jsx": {
+    "mtime": 1773928349.2792,
+    "ast_hash": "88cbe9ff625b24cdebc00041732db97f",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\MyAssets.jsx": {
+    "mtime": 1773928869.480299,
+    "ast_hash": "c49c34b90d4687cadda84edc2167d5bb",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Notifications.jsx": {
+    "mtime": 1773943971.7268634,
+    "ast_hash": "f817fd8062969a137c1f7cb0f6f49dc6",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Register.jsx": {
+    "mtime": 1773944405.5342765,
+    "ast_hash": "ad5ebc95b16570521dd088f404314a6d",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Settings.jsx": {
+    "mtime": 1773927533.418144,
+    "ast_hash": "62f6ff4b4859b25d220816e7f51924bf",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\pages\\Users.jsx": {
+    "mtime": 1773927593.1722894,
+    "ast_hash": "63f4899af1ac3b284768b7412268b9cc",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\utils\\assetIcons.js": {
+    "mtime": 1773928279.659358,
+    "ast_hash": "efd235f1cc0a6124bbdebe549eb4d537",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\README.md": {
+    "mtime": 1773977874.3960023,
+    "ast_hash": "a9e28e3b5c5978c0e3024a94d1fef192",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\backend_log.txt": {
+    "mtime": 1779347086.1432106,
+    "ast_hash": "b7df64cfd113cab8aeff22f779d6d1dc",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\render.yaml": {
+    "mtime": 1773944664.623116,
+    "ast_hash": "1625665658e5326ea5b83673c45cff3d",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\backend\\requirements.txt": {
+    "mtime": 1773944602.562384,
+    "ast_hash": "483322e8d16fa25e37a75132ebc0beaf",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\index.html": {
+    "mtime": 1773944424.846744,
+    "ast_hash": "a101d2b90db19895c7245d684aa95213",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\README.md": {
+    "mtime": 1773642270.1797838,
+    "ast_hash": "a28dc4cb878325f3e9e5649f3e1469ac",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\public\\favicon.svg": {
+    "mtime": 1773642270.315106,
+    "ast_hash": "7e840862161341271697daa99a40d76b",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\public\\icons.svg": {
+    "mtime": 1773642270.3482172,
+    "ast_hash": "3b4fcfcf393eca4d264dca4a4663bc37",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\hero.png": {
+    "mtime": 1773642270.2393909,
+    "ast_hash": "5cf2b0762834cdddc0dd3ec1397b5011",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\react.svg": {
+    "mtime": 1773642270.3828514,
+    "ast_hash": "f0402b67b6ce880f65666bb49e841696",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\vite.svg": {
+    "mtime": 1773642270.4063394,
+    "ast_hash": "9960a24288958394ac50e57ff638b036",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar1.png": {
+    "mtime": 1773920661.4012263,
+    "ast_hash": "ace3a19860e33cdd70217f45f72d7e00",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar2.png": {
+    "mtime": 1773920680.915882,
+    "ast_hash": "a0756972ee829b09a93357e9b56afb76",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar3.png": {
+    "mtime": 1773920694.7307885,
+    "ast_hash": "fa52adfdca258209e0efa8e9c3e1bf8b",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar4.png": {
+    "mtime": 1773920733.0220323,
+    "ast_hash": "e7c16ee1eae1db4bfeb9db247d818cce",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar5.png": {
+    "mtime": 1773920750.004317,
+    "ast_hash": "0aa913d47585f788e68f7c5faf0acb40",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar6.png": {
+    "mtime": 1773921055.8911946,
+    "ast_hash": "456d260235d1f809c51b8f9513320863",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar7.png": {
+    "mtime": 1773926425.7896333,
+    "ast_hash": "1cc10cb97622476ceb4d55833201fa9a",
+    "semantic_hash": ""
+  },
+  "D:\\Prototype\\frontend\\src\\assets\\avatars\\avatar8.png": {
+    "mtime": 1773926441.2327762,
+    "ast_hash": "8ae7511e5a69099635d1e3adf0d9d018",
+    "semantic_hash": ""
+  }
+}
